@@ -1,5 +1,9 @@
 # agv_teleop
 
+- Permit the access:
+  + Directory to package: $roscd agv_teleop
+  + Permit the access: $sudo chmod +x scripts/agv_teleop_key.py
+
 # Install package
 - Add command to install in CMakeLists.txt:
 ```
